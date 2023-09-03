@@ -1,0 +1,12 @@
+{
+  "name": "pglistenNotify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vivek",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "pg": "^8.11.3"
+  }
+}
